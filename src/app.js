@@ -19,4 +19,4 @@ const order = shoppingCart.checkout();
 
 console.log(order.displaySummary())
 
-console.log('test')
+console.log('testaasfdsa')
