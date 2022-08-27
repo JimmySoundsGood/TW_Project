@@ -1,4 +1,4 @@
 node_modules
-.idea
-.cmd
-.ps1
+*.idea
+*.cmd
+*.ps1
