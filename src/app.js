@@ -18,3 +18,5 @@ console.log(shoppingCart.displaySummary())
 const order = shoppingCart.checkout();
 
 console.log(order.displaySummary())
+
+console.log('test')

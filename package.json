@@ -13,7 +13,6 @@
   },
   "author": "Thoughtworks",
   "license": "ISC",
-  "type": "module",
   "devDependencies": {
     "babel-jest": "^26.1.0",
     "jest": "^26.1.0"
